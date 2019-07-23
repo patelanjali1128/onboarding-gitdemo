@@ -10,7 +10,6 @@
 	<groupId>com.amdocs</groupId>
 	<artifactId>amdocs-hellorest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>amdocs-hellorest-api</name>
 
 	<properties>
 		<java.version>1.8</java.version>
